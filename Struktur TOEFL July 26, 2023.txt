@@ -1,0 +1,27 @@
+A. Reading
+    A.1. Jumlah Pertanyaan
+    : 20
+    A.2. Estimasi Pengerjaan
+    : 35 menit
+
+B. Listening
+    B.1. Jumlah Pertanyaan
+    : 28
+    B.2. Estimasi Pengerjaan
+    : 36 menit
+
+C. Speaking
+    C.1. Jumlah Pertanyaan
+    : 4 
+    C.2. Estimasi Pengerjaan
+    : 16 menit
+
+D. Writing
+    D.1. Jumlah Pertanyaan
+    : 2
+    D.2. Estimasi Pengerjaan
+    : 29 menit
+
+E. Academic discussion
+: Terdapat tugas baru dalam test writing yaitu academic 
+discussion
