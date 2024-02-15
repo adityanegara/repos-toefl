@@ -10,7 +10,7 @@ library accross the room
 move to another dorm
 
 1. C
-2. D
+2. D (B)
 3. A
 4. A
 5. D
@@ -28,12 +28,12 @@ move to another dorm
    estimate 
    6 category by magnitude
 
-   1. D
-   2. D
+   1. D (A)
+   2. D (C)
    3. C
-   4. D
-   5. C
-   6. D
+   4. D (A)
+   5. C (B)
+   6. D (A)
 
 3. Potential writing newspaper
    want to be journalist
@@ -44,9 +44,9 @@ move to another dorm
    write something for her
    end of this week
 
-   1. B
-   2. B
-   3. B
+   1. B (A)
+   2. B (C)
+   3. B (A)
    4. B
    5. D
 
@@ -80,8 +80,10 @@ move to another dorm
 
    1. C
    2. B
-   3. A and D
-   4. C
-   5. B
+   3. A and D (A and C)
+   4. C (A)
+   5. B (D)
    6. C
+
+
 

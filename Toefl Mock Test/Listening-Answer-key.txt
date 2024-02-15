@@ -1,0 +1,43 @@
+A. Peraturan
+: 1. Jumlah pertanyaan ada 28
+  2. Pertanyaan yang membutuhkan lebih dari satu
+  jawaban bernilai 2 point.
+  3. Pertanyaan yang memiliki dua pilihan. Jika 2 pilihan benar, 
+  anda mendapatkan 1 point. Jika salah satu jawaban salah anda mendapatkan 
+  0 point.
+  4. Jika kamu mengisi dengan benar semua table.
+  Anda mendapatkan 2 point, Jika mendapatkan satu
+  kesalahan anda pendapat 1 point. Jika membuat lebih 
+  dari 2 kesalahan anda mendapatkan 0 point. 
+
+B. Kunci Jawaban
+: 1. C
+  2. B
+  3. A
+  4. A
+  5. D
+  6. A
+  7. C 
+  8. C
+  9. A 
+ 10. B 
+ 11. A
+ 12. A
+ 13. C
+ 14. B
+ 15. C
+ 16. Rhyming of words = accoustic
+     Self reference effect = semantic
+     Font of written words = visual encoding
+ 17. D
+ 18. A 
+ 19. C
+ 20. B
+ 21. A and C
+ 22. A
+ 23. D 
+ 24. C
+
+ C. Penilaian
+ : Raw points = 17
+   Score = 17
