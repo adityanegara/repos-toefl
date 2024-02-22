@@ -1,0 +1,128 @@
+A. Vocabulary
+    A.1. Frekuensi
+    : 2 sampai 4 pertanyaan
+
+    A.2. Nilai pertanyaan
+    : 1
+
+    A.3. Struktur pertanyaan
+    : "The word X in paragraph 2 is closest
+    in meaning to..."
+
+B. Factual information (Detail)
+    B.1. Frekuensi
+    : 3 sampai 6 pertanyaan
+
+    B.2. Nilai pertanyaan
+    : 1
+
+    B.3. Struktur pertanyaan
+    : 1. "According to paragraph 3, what is X?"
+      2. "According to paragraph 4, which of the 
+      following is true?"
+      3. "What does paragraph 2 say about X?"
+
+C. Negative factual information (Negative Detail)
+    C.1. Frekuensi
+    : 1 sampai 3 pertanyaan
+
+    C.2. Nilai pertanyaan
+    : 1
+
+    C.3. Struktur pertanyaan
+    : 1. "All of the following are mentioned in paragraph EXCEPT"
+      2. "Which of the following is NOT mentioned in pargraph 6?"
+
+D. Inference (kesimpulan)
+    D.1. Frekuensi
+    : 1 sampai 3 pertanyaan
+    
+    D.2. Nilai pertanyaan
+    : 1 
+
+    D.3. Struktur pertanyaan
+    : 1. "What can be inferred from the information
+    in paragraph 2?"
+      2. "In paragraph 1, which of the following can be
+    inferred about X?"
+
+    D.4. Contoh cara menjawab Inference
+    : Diketahui : "80% of butterflies is orange"
+      Ditanya : "What can be inferred from the sentence above?"
+      Jawab : "20% of butterflies is not orange"
+      Penjelasan : Jawabannya tidak ada pada text. Anda harus
+      bisa membuat kesimpulan dari text yang diberikan. 
+
+E. Rhetorical Purpose (Author purpose)
+    E.1. Frekuensi
+    : 1 sampai 2 pertanyaan
+
+    E.2. Nilai pertanyaan
+    : 1
+
+    E.3. Struktur pertanyaan
+    : 1. "In paragraph 6, the author discusses X in order to"
+      2. "Why does the author mention X?"
+
+F. Sentence Simplification
+    F.1. Frekuensi pertanyaan
+    : 1 sampai 2 pertanyaan
+
+    F.2. Nilai pertanyaan
+    : 1
+
+    F.3. Struktur pertanyaan
+    : "Which of the following best expresses 
+    the essential information in the hightlighted sentence
+    in paragraph 4?"
+
+G. Insert text
+    G.1. Frekuensi pertanyaan
+    : 1 sampai 2 pertanyaan
+
+    G.2. Nilai pertanyaan
+    : 1
+
+    G.3. Struktur Pertanyaan
+    : "Look at the four squares (A,B,C,D) that
+    indicate where the following sentence could be
+    added to the passage"
+
+H. Reference (Pronoun referent)
+    H.1. Frekuensi pertanyaan
+    : 0 sampai 1 pertanyaan
+
+    H.2. Nilai pertanyaan
+    : 1 
+
+    H.3. Struktur Pertanyaan
+    : "The phrase in paragraph 5 refers to"
+
+I. Prose Summary (Summary)
+    I.1. Frekuensi Pertanyaan
+    : 1 sampai 2 pertanyaan
+
+    I.2. Nilai pertanyaan 
+    : 2
+
+    I.3. Struktur pertanyaan
+    : "An introductory sentence for a brief summary of
+    the passage is provided below. Complete 
+    the summary by selecting the THREE answer choices that
+    express the most important ideas in the passage"
+
+J. Fill in A Table
+    J.1. Frekuensi Pertanyaan
+    : 0 sampai 1
+
+    J.2. Nilai Pertanyaan
+    : 2-3 
+
+    J.3. Struktur pertanyaan
+    : "Complete the table below to summarize information about X
+    in the passage. Match the appropriate statements to X"
+
+
+
+
+
