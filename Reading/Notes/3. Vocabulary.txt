@@ -1,0 +1,155 @@
+Strategi untuk menjawab pertanyaan vocabulary
+A. Jika katanya terlalu mudah, mungkin memiliki arti yang lain.
+B. Hindari kata yang mirip dengan kata yang ditanyakan.
+C. Eliminasi pilihan
+D. Mempelajari beberapa bagian kata 
+    D.1. Top ten prefixes
+        D.1.1. Ex
+        : Keluarna/atau
+            D.1.1.1. Contoh
+            : exposure, exclusion
+
+        D.1.2. Pro
+        : Sebelum, maju
+            D.1.2.1. Contoh
+            : prologue, prognosis
+
+        D.1.3. trans
+        : Melalui, menyebrang, diluar
+            D.1.3.1. Contoh
+            : transcript, transfer
+
+        D.1.4. dis
+        : jauh, efek kebalikan
+            D.1.4.1. Contoh
+            : disable, disadvantage
+
+        D.1.5. un
+        : negative, kekuatan yang berlawanan
+            D.1.4.1. Contoh
+            : unaccaptable, uneasy
+
+        D.1.6. auto
+        : dilakukan oleh sendiri, 
+            D.1.6.1. Contoh
+            : autobiography, autonomy
+
+        D.1.7. pre
+        : Sebelum  
+            D.1.7.1. Contoh
+            : precaution, preview
+
+        D.1.8 inter
+        : Diantara
+            D.1.8.1. Contoh
+            : Interaction, International
+
+        D.1.9 re
+        : kembali, lagi
+            D.1.9.1. Contoh
+            : rebuild, recall
+
+    D.2. Top Ten Root words
+    : Kate tengah
+        D.2.1. part 
+        : berpisah, bagian
+            D.2.1.1. Contoh
+            : depart, apart
+
+        D.2.2. Dict
+        : Bicara, diutarakan
+            D.2.2.1. Contoh
+            : dictate, contradict
+
+        D.2.3. duc
+        : Memimpin
+            D.2.3.1. Contoh
+            : conductor, counterproductive
+
+        D.2.4. gen
+        : memproduksi
+            D.2.4.1. Contoh
+            : indigenous, progeny
+
+        D.2.5. mod
+        : Menghitung, metode
+            D.2.5.1. Contoh
+            : moderation, commodify
+
+        D.2.6. path
+        : Perasaan, penyakit
+            D.2.6.1. Contoh
+            : empathy, psychopath
+
+        D.2.7. bio
+        : kehidupan
+            D.2.7.1. Contoh
+            : autobiography, biodegradable
+
+        D.2.8. sens/sent
+        : perasaan, melihat
+            D.2.8.1 Contoh
+            : insensitive, resent
+
+        D.2.9. log/logo
+        : kata, ilmu tentang
+            D.2.9.1
+            : logistics, chronological
+
+        D.2.10. graph/gram
+        : menulis
+            D.2.10.1. Contoh
+            : demographic, telegram
+
+    D.3. Top Ten suffixes
+    : akhiran
+        D.3.1. ify
+        :  mengakibatkan, membuat sesuat terjadi
+            D.3.1.1. Contoh
+            : identify, intensify
+
+        D.3.2. ize
+        : menjadi
+            D.3.2.1. Contoh
+            : lionize, jeopardize
+
+        D.3.3. ly
+        : dengan cara tertentu atau dalam interval waktu
+            D.3.3.1 Contoh
+            : heavily, suddenly
+
+        D.3.4. able/ible
+        : Memiliki kualitas tertentu
+            D.3.4.1. Contoh
+            : loveable, invincible
+
+        D.3.5. ive
+        : Memiliki kualitas tertentu
+            D.5.1. Contoh
+            : vegetative, explosive
+
+        D.3.6. ish
+        : Memiliki kualitas seperti
+            D.3.6.1. Contoh
+            : selfish, cheapish
+
+        D.3.7. ity/ty
+        : keadaan atau kualitas
+            D.3.7.1. Contoh
+            : purity, diversity
+
+        D.3.8. ness
+        : keadaan atau kondisi
+            D.3.8.1. Contoh
+            : cleverness, forgiveness
+
+        D.3.9. ment
+        : aksi atau hasil
+            D.3.9.1. Contoh
+            : embarassment, compliment
+
+        D.10. tion/sion
+        : aksi atau hasil
+            D.3.10.1. Contoh
+            : domination, division
+            
