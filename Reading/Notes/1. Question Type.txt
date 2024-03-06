@@ -98,7 +98,7 @@ H. Reference (Pronoun referent)
     H.3. Struktur Pertanyaan
     : "The phrase in paragraph 5 refers to"
 
-I. Prose Summary (Summary)
+sI. Prose Summary (Summary)
     I.1. Frekuensi Pertanyaan
     : 1 sampai 2 pertanyaan
 
