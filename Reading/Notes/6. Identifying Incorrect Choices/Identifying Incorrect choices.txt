@@ -1,0 +1,38 @@
+A. Uses the same words as text
+: Bila ada kata-kata yang sama dengan text yang dibaca. Kita harus
+koreksi kembali jawaban tersebut.
+    
+    A.1. Contoh
+    : Lihat(images/uses-the-same-words.png). Pada jawaban C
+    Went extinct about 160 million years ago, kita lihat pada text reading
+    lived around 161 million years ago. Punya arti yang berbeda.
+      Pada jawaban D 
+    Were discovered by scientist in 1890. Kita lihat pada text reading
+    "They were first classified as seperate from other dinosaur species in 1890"
+    Memiliki arti berbeda. 
+
+B. Includes the adverbs all,always, never
+: Bila jawaban mengandung kata keterangan seperti "all", "always", atau "never" kita
+harus curiga dikarenakan biasanya text ilmiah menggunakan kata "usually" atau "most of the times"
+
+    B.1. Contoh
+    : Lihat (images/include-all,alaways,never.png) Pada jawaban C 
+    "The evidence shows ceratopsians of all ages and genders lived, ate, and
+    slept in groups" Kurang tepat karena "Suggest that many, if not all
+    species lived together in herds"
+
+C. Contains the wrong modifier
+: - The event has had tremendous impact
+  - The event has had some impact
+  - The event has had almost no impact
+  Ketiga kalimat tersebut berbicara tentang akibat acara. Tetapi dibedakan oleh
+  modifiernya. Kita harus teliti melihat modifier jawaban.
+
+  C.1. Time Modifiers
+  : - Almost two decades ago (20 years)
+    - the early 18th century (1700-1725)
+    - the late 1900s (1995-1999)
+
+D. Mixed details
+
+E. Displays information that is not mentioned.
